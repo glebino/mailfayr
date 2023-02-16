@@ -1,0 +1,2 @@
+#
+simple mailer on python
